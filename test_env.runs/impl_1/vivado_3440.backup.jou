@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Apr 27 14:22:22 2022
+# Process ID: 3440
+# Current directory: C:/Users/Utilizator/Desktop/test_env/test_env/test_env/test_env.runs/impl_1
+# Command line: vivado.exe -log test_env.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_env.tcl -notrace
+# Log file: C:/Users/Utilizator/Desktop/test_env/test_env/test_env/test_env.runs/impl_1/test_env.vdi
+# Journal file: C:/Users/Utilizator/Desktop/test_env/test_env/test_env/test_env.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
